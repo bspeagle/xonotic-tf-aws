@@ -1,4 +1,4 @@
-# xonotic-gameserver
+# xonotic-tf-aws
 
 Full install and config of Xonotic game server using Terraform and AWS.
 
